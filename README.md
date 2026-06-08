@@ -183,6 +183,7 @@ Autonomous AI systems that handle end-to-end development tasks.
 | **Docs** | [Context7](https://github.com/upstash/context7) | Up-to-date library documentation injected into AI context |
 | **File System** | [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) | Secure read/write operations |
 | **Payments** | [Stripe](https://github.com/stripe/agent-toolkit) | Official Stripe MCP for payments, customers, and subscriptions |
+| **Agent Trust** | [TWZRD Agent Intel](https://intel.twzrd.xyz) | On-chain trust scoring for AI agent wallets before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` |
 | **Browser (Cloud)** | [Browserbase](https://github.com/browserbase/mcp-server-browserbase) | Cloud browser automation MCP for AI agents |
 | **Backend** | [Supabase](https://github.com/supabase-community/supabase-mcp) | Manage Supabase projects, run SQL, and handle migrations |
 | **Design** | [Figma](https://github.com/figma/figma-developer-mcp) | Figma design data for AI-powered frontend development |
